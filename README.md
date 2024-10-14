@@ -1,6 +1,10 @@
 # Taxi Company - C++ 🚕🚦🚖
 **This is the first part of my final project for the C++ course, completed at Afeka College.** 
 
+**To the second part :**  [README.md](https://github.com/orikatz99/Library/blob/main/README.md)
+
+**To the third part :**  [README.md](https://github.com/orikatz99/Final-Library/blob/main/README.md)
+
 In this part, we were required to choose a topic and build a system to manage it.  
 We chose "Taxi Company Management."  
 
